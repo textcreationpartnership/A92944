@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the governour, council &amp; assembly of Jamaica, in St. Jago de la Vega, Martii 18. 1680/1</title>
+         </titleStmt>
+         <extent>Approx. 21KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92944</idno><idno type="EEBO-CITATION">99895964</idno>
+  <idno type="VID">153582</idno>
+  <idno type="EEBO-PROQUEST">2240915054</idno>
+  
+            <idno type="STC">Wing S2634A</idno>
+            <idno type="STC">ESTC R230273</idno>
+            <idno type="PROQUEST">99895964</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99895964e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92944)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153582)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2371:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the governour, council &amp; assembly of Jamaica, in St. Jago de la Vega, Martii 18. 1680/1</title>
+               </titleStmt>
+               <extent>[2], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by T. Milbourn, for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Governors --  Jamaica --  Sermons --  Early works to 1800.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153582:1"/>
+            <pb facs="tcp:153582:2"/>
+            <pb facs="tcp:153582:2"/>
+            <p>A SERMON Preached before the GOVERNOUR, Council &amp; Assembly OF <hi>IAMAICA,</hi> IN St. <hi>Jago de la Vega,</hi> Martii 18. 1680/1.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. Milbourn,</hi> for the Author, 1682.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:153582:3"/>
+            <pb n="1" facs="tcp:153582:3"/>
+            <epigraph>
+               <bibl>Mat. 22. 21.</bibl>
+               <q>Render therefore unto <hi>Caesar,</hi> the things which are <hi>Caesars;</hi> and unto <hi>God,</hi> the things which are <hi>Gods.</hi>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">W</seg>HAT <hi>Nicias,</hi> an excellent Painter, said of his own Art, (<hi>viz. That it was not the least part of it, to chuse such a Subject for his Pencil, as of it self might command a Mutual, and Delightful intercourse of species between It, and the Eye of the Spectator</hi>) may be very Applicable to him, who is to Speak before a Publick and Judicious Auditory: If he be Elo<g ref="char:EOLhyphen"/>quent, he will be injurious to his own Skill, in the choice of any Argument too low and
+<pb n="2" facs="tcp:153582:4"/> mean for it: If a mean Oratour, yet some Discretion may appear, in the taking a Theme, which may supply his Barrenness of Words with plenty of Matter, and with its own lustre give ornament to that speech, from whence it can receive none. From which last Con<g ref="char:EOLhyphen"/>sideration, I am Directed to Words suitable to my Defects, and the present Occasion. Not onely as they relate, to the Image, and Superscription of <hi>Caesar,</hi> on a piece of Refined Clay; but as they shew the Image of GOD, stampt on <hi>Caesar,</hi> and are made a Divine Precept by the Author of Christi<g ref="char:EOLhyphen"/>anity; containing in them, The Strength, and Beauty, Decency, Order, and Advan<g ref="char:EOLhyphen"/>tage of Government, and Obedience: In<g ref="char:EOLhyphen"/>deed, the sum and substance of all True Religion, in respect to God and Man.</p>
+            <p>I shall not therefore derogate so much from the Majesty of this Divine style, or the Judgement of this Honourable and Loyal Assembly, as to attempt any intro<g ref="char:EOLhyphen"/>ductory Apology for Christians, against their early Accusation of being <hi>Novatores rerum,</hi> Subvertors of Government, and Trumpeters of Sedition; there being not to be supposed
+<pb n="3" facs="tcp:153582:4"/> in this Place, any Assertors of Liberty, falsly so called, but only what is Truly Christian: So that the Analysis of the Question ask'd our Saviour, and his Answer, will be the properest Preface to the ensuing Discourse.</p>
+            <p>The Messengers which were sent to entrap Christ, though of different Perswasions, were at agreement against Him: The <hi>Pharisees,</hi> which pretend to greater <hi>Holiness</hi> than others, and would therefore be exempted from the the Duty of Subjects: And the <hi>Herodians,</hi> who were <hi>Loyal</hi> to <hi>Caesar,</hi> by whose Favour <hi>Herod</hi> reigned, and therefore thought Tribute to be duly Payable. Yet both joyn in one insinuating Address to him, commending his Knowledge, by the Appellation of Doctor, or Master; and his Veracity, which would not warp, or swerve, for respect of Per<g ref="char:EOLhyphen"/>sons, concluding from thence, That their Pe<g ref="char:EOLhyphen"/>tition was Modest, and Reasonable; still ex<g ref="char:EOLhyphen"/>pecting, that his Answer should bring him under a Fatal Dilemma, either of the Displea<g ref="char:EOLhyphen"/>sure of <hi>Caesars</hi> friends, if he should deny Tri<g ref="char:EOLhyphen"/>bute; or the Rage of the many-headed Beast, the Multitude, if he should declare the Pay<g ref="char:EOLhyphen"/>ment of it to be Just and Lawful. But he,
+<pb n="4" facs="tcp:153582:5"/> who knew the Folly of such Polititians, evades the push of their double Horns: First, by an intermediate Question, bringing them thereby to a Confession of their Subjection to <hi>Caesar,</hi> whose Coyn and Protection susteined them: Then, resolving their subtle Question in the Affirmative, What was his Due, must be Paid him; there being as strong an Obliga<g ref="char:EOLhyphen"/>tion arising from thence, as any other Law: Withal, anticipating an Objection, which they might raise from <hi>Exodus</hi> 30. 13. Giving to <hi>Caesar</hi> his due, would be no hindrance of pay<g ref="char:EOLhyphen"/>ing Gods. But instead of those costly wayes of upholding an outward Worship, he com<g ref="char:EOLhyphen"/>mands an inward one of Zeal, in acts of Piety and Mercy, rather than Sacrifice.</p>
+            <p>The words then, in their order, contain a Divine Precept, consisting of two Branches:</p>
+            <list>
+               <item>First, <hi>Our Duty to those in Autho<g ref="char:EOLhyphen"/>rity over us.</hi>
+               </item>
+               <item>Secondly, <hi>To GOD in works of Piety.</hi>
+               </item>
+            </list>
+            <p>That it is a precept, and not a bare piece of Advice, I presume, I need not spend time in
+<pb n="5" facs="tcp:153582:5"/> proving; though some are pleased to mistake our Saviours words, <hi>If the Son free you, then</hi>
+               <note place="margin">John. 8▪ 36.</note>
+               <hi>are you free indeed.</hi> And what he said to Saint <hi>Peter, Then are the Children free.</hi> From which<note place="margin">Mat. 17. 26.</note> two Texts, false Prophets have set all of their own Faction free from Subjection: But You have not so learned Christ; to whom I hope it is evident, That in the first Text is meant, onely a freedom from Sin, and a Curse of the Law. The other respects on<g ref="char:EOLhyphen"/>ly Himself, as Son of GOD, and King of <hi>Israel.</hi> Upon which places, St. <hi>Paul</hi>'s 13. <hi>Chap.</hi> to the <hi>Romans,</hi> may be to any reasonable man a sufficient Comment, where he clearly de<g ref="char:EOLhyphen"/>monstrates, that Christ, in his coming to Give an Eternal Kingdom, did not design to de<g ref="char:EOLhyphen"/>stroy Temporal ones.</p>
+            <p>In the first member of the Text, we may observe,</p>
+            <p>1. The Princes Dignity, under the Appel<g ref="char:EOLhyphen"/>lation of <hi>Caesar;</hi> That name of Honour being continued successively to the Emperours of the <hi>Julian</hi> Family.</p>
+            <p>To Illustrate this Dignity, and Honour of those in Authority, we need not ransack the Writings of the Antients for glorious Titles,
+<pb n="6" facs="tcp:153582:6"/> to cloath them with Thunder, and make their Aspect as dreadful as the King of Ter<g ref="char:EOLhyphen"/>rours. Here is no need of fawning, or flat<g ref="char:EOLhyphen"/>tering Panegyricks, (which, in effect, would be an agreeing with those who derive the Original of Government from <hi>Lucifer,</hi> grosly, if not wilfully mistaking the 14. <hi>Chapter</hi> of <hi>Isaiah,</hi> transmitting it from him to the Gyants, continuing it in <hi>Nimrod,</hi> enlarging it by the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, till Force, they say, had establisht it self into a Law) God himself has pre<g ref="char:EOLhyphen"/>vented the necessity of humane Rhetorick in this case; He has said, <hi>They are Gods:</hi> He has given them his own Name, who is Love as well as Majesty; They are therefore the Mi<g ref="char:EOLhyphen"/>nisters of GOD, <hi>For Good unto him that doth Well, and a Terrour only to those that do Evil.</hi> 'Tis their glory, to scatter away all Evil in God's own method, whose Representatives they are. Not suffering Passion to dethrone Reason, nor Affection pervert Justice, so as to look on the Person rather than the Cause; Lo the Poor cry, and they hear them; Their Ears being shut to such Breaths, as would Blow moderate Heats into Torrid ones. Wis<g ref="char:EOLhyphen"/>dom, Courage, Kindness, and Constancy,
+<pb n="7" facs="tcp:153582:6"/> with all the Chain of Vertues, are their dis<g ref="char:EOLhyphen"/>criminative Badge, which makes them ap<g ref="char:EOLhyphen"/>pear like <hi>Saul,</hi> so eminently above Others. If that of the <hi>Psalnust</hi> be Applicable to Man in general, <hi>That GOD hath made him a little Lower than the Angels, and Crown'd him with Glory and Worship;</hi> Much more is it so to Rulers whom he has Placed in his own Chair of State, and Judgment, armed with his own Sword, and honour'd with his own Name: Through whom he makes every private man's house his Fortress; Through their Labour, gives others Ease; by their Industry, gives others Pleasure and Profit: The poor man can se<g ref="char:EOLhyphen"/>cure his own Lamb every one enjoy his own Vineyard and Fig-tree; no Property be<g ref="char:EOLhyphen"/>ing unjustly Altered or Invaded. Should I further amplify this Point, (which I think needless) it would rather Humble the Heart of a Wise Magistrate, than Exalt or puff it up. High places are Vertiginous, and no<g ref="char:EOLhyphen"/>thing but Divinity it self can give security on the loftiest Pinacle. <hi>Antigonus</hi> knew the weight of his Crown, when he threw it on the ground: And if all Benefits bring some Bondage with them, much more this great Blessing of Go<g ref="char:EOLhyphen"/>verment;
+<pb n="8" facs="tcp:153582:7"/> Because <hi>Caesar</hi> is above Law, he may not do many things which Others may lawfully do; His Example being more Ef<g ref="char:EOLhyphen"/>fectually Commanding, than his Edicts.</p>
+            <p>'Tis not therefore the end of any well<g ref="char:EOLhyphen"/>meaning discourse on the Dignity of Magi<g ref="char:EOLhyphen"/>strates, to make them Bubbles, and blow them higher than their proper sphere, which would declare thoughts of their Emptyness too. But there is another end for our Instruction, That from the Excellency of that High Calling, (which is assuredly from GOD) we may learn what Duty and Service we ow them: <hi>To Render to</hi> Caesar <hi>the things which are</hi> Cae<g ref="char:EOLhyphen"/>sars.</p>
+            <p>In our enquiry after the Duties owing to Lawful Governours, and Magistrates, I shall not perplex my self, nor others, for a Reso<g ref="char:EOLhyphen"/>lution from Antient or Modern Politicks; God's Word being ready at hand for our di<g ref="char:EOLhyphen"/>rection in this Affair, which has united the Dove and the Serpent, made Innocence and Wisdom consistent: St. <hi>Paul</hi> therefore, a great Secretary of the Holy Ghost, has re<g ref="char:EOLhyphen"/>duced all we owe Superiours to four Heads, in the foremention'd 13. to the <hi>Romans,</hi> which are,</p>
+            <list>
+               <pb n="9" facs="tcp:153582:7"/>
+               <item>1. <hi>Obedience,</hi>
+               </item>
+               <item>2. <hi>Fear,</hi>
+               </item>
+               <item>3. <hi>Honour,</hi>
+               </item>
+               <item>4. <hi>Tribute.</hi>
+               </item>
+            </list>
+            <p n="1">1. By <hi>Obedience,</hi> we cannot suppose an ab<g ref="char:EOLhyphen"/>solute one without Condition, or Limita<g ref="char:EOLhyphen"/>tion; as if we were to make a total resig<g ref="char:EOLhyphen"/>nation of our Understandings, and Wills, to the WILL of the SUPREME, and be actuated like Clocks, or Engines, which would be a greater Breach of the Law of Nature, than <hi>Origen</hi>'s dismembring him<g ref="char:EOLhyphen"/>self: And such Slaves would deserve as little Thanks from a State, or Common-wealth, as he had from the Church which condemn'd his folly. But whilst nothing is Comman<g ref="char:EOLhyphen"/>ded which Interferes with God's Laws, Con<g ref="char:EOLhyphen"/>science it self is the Sanction of every such Command. When any thing Unlawful is enjoyn'd, instead of Active Obedience, we are to bring onely Subjection, and prove the Truth of our Christianity, by Passive Forti<g ref="char:EOLhyphen"/>tude.</p>
+            <p>
+               <hi>Submit your selves to all manner of Ordinance,</hi> saith St. Peter; <hi>Let every Soul be Subject to the Higher Powers,</hi> saith St. <hi>Paul;</hi> who bids <hi>Titus</hi>
+               <pb n="10" facs="tcp:153582:8"/> be his Auditours Remembrancer, That they be <hi>Subject</hi> to <hi>Principalities,</hi> and <hi>Powers,</hi> and <hi>Obedient</hi> to every <hi>good Woork.</hi> What is for the Interest of the Church, and State we live under, in a true Notion commands our Obe<g ref="char:EOLhyphen"/>dience; nor are we Judges in our own cau<g ref="char:EOLhyphen"/>ses, where Sacred Writ is silent; as in mat<g ref="char:EOLhyphen"/>ters Indifferent, which cease to be so when enjoyn'd, or prohibited by law<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ul Authority. Which Doctrine never found Contradiction, for six hundred years after Christ, as the Practice of those noble Martyrs testify, of whom the World was not worthy. The Sword of the Spirit was their only Weapon, and their Armour was Patience. How much this Doctrine of Christs, and St. <hi>Peters,</hi> is now decry'd by his pretended Successours, <hi>Mariana</hi> and others of that Fraternity can in<g ref="char:EOLhyphen"/>form us; from whose Principles, Crowns and Scepters, are but Toyes for the Old Gentleman at <hi>Rome,</hi> to play with, in his second Childhood; and the Tragical acts of Murther upon Princes, but Comaedyes to ex<g ref="char:EOLhyphen"/>cite mirth, and laughter: The encrease of which Villanous designs, I hope providence, by the Wisdome infused into our great
+<pb n="11" facs="tcp:153582:8"/> Councils, both here and elsewhere, will time<g ref="char:EOLhyphen"/>ly prevent. Much less can I despair of a consciencious Obedience, to a Gracious Prince, or his Representative, from all who are here met together, to consult His and their Own Joynt-Interest; bounding their Christian Li<g ref="char:EOLhyphen"/>berty with Piety, Loyalty, Charity and Temperance.</p>
+            <p n="2">2. The second Duty we owe, is <hi>Fear.</hi> By Fear cannot be meant here, such a slavish Subjection as becomes Brutes, rather than Men; but such a fear as receives its true tem<g ref="char:EOLhyphen"/>perature, from its mixture with that more Noble Passion of Love; Both being affecti<g ref="char:EOLhyphen"/>ons which GOD requires of us, as a Fa<g ref="char:EOLhyphen"/>ther, and as a Lord: <hi>If I am your Father, where is my Love? If your Lord, where is my Fear?</hi> So we Love the Magistrate for his Goodness, and stand in aw of his Greatness; being tender of our own Reputation, and fearful of suffering as Malefactors, whether by true or false Accusation. How mightily such a due reverence would conduce to the Flourishing of any Kingdom or People, needs no great share of Politicks to under<g ref="char:EOLhyphen"/>stand; since even a slavish fear, may be a
+<pb n="12" facs="tcp:153582:9"/> means to bring us to Charity, and the Foun<g ref="char:EOLhyphen"/>tain of Wisdom, which is the fear of GOD: It being a bridle to Sin▪ and few ever arrived to that piece of Gallantry as not to be asha<g ref="char:EOLhyphen"/>med in publick, of what they dare practice in private: But when modesty is once cast off, as an antiquated, useless vertue, when Men care not to hide their crimes, from the view of Authority it self, there is a <hi>Conclamatum est.</hi> Where there is neither fear of GOD, nor Reverence to Man, There is no security from a Deluge of Impiety, and consequently of Destruction: But I hope the care of those, who are so much intrusted to guard the Princes Throne, will support it (like <hi>Solomon</hi>'s) with Lions, make the fear of breaking his Laws, raile it in (like the <hi>Sanctum</hi>) and keep all from growing Com<g ref="char:EOLhyphen"/>mon, or Prophane.</p>
+            <p n="3">3. The third Duty we owe <hi>Caesar,</hi> is <hi>Ho<g ref="char:EOLhyphen"/>nour:</hi> Which is many times Synonimous with the first, or is at least included in it; How<g ref="char:EOLhyphen"/>ever, since the Apostle has made a distincti<g ref="char:EOLhyphen"/>on, this may be more Explanatory of that. When St. <hi>Peter</hi> had said, <hi>All in Authority were to be Honoured,</hi> He presently subjoynes the
+<pb n="13" facs="tcp:153582:9"/> King in an especial manner (meaning <hi>Caesar</hi> the Supream) <hi>Honour the King with a Civil, but not a Divine Honour.</hi> This Honour consists principally in the Heart, where we are to have a due conceipt, and estimation of our Gover<g ref="char:EOLhyphen"/>nours, which will express it self in Words and Actions. It curses not the King, no not in the Bedchamber; not meerly out of fear of the Birds of the Aire, or any other se<g ref="char:EOLhyphen"/>cret intelligencer, which may discover the mat<g ref="char:EOLhyphen"/>ter; but out of true respect to Gods Image, which creates Honourable Thoughts, but not Idolatrous ones. <hi>Out of the abundance of the Heart, the Mouth speaketh;</hi> no evil of Dignities, but dares own Truth, which requires its Testimony, without Flattery, or Raileing; which opposite Vices too often concur, to the ruining, or at least, the obstruction of Good Government: which of the two is most pernicious, I shall not here determine; both being slavish humours, and therefore not the Subject of our Present business. But positively the verbal expressions, which prove the re<g ref="char:EOLhyphen"/>ality of the Honour we pay, consist of Pray<g ref="char:EOLhyphen"/>ers for all that are in Authority, that we may <hi>lead a quiet and peaceable life, in all God<g ref="char:EOLhyphen"/>liness
+<pb n="14" facs="tcp:153582:10"/> and Honesty.</hi> To which end we must pray for all graces, suitable for Places of so great Trust, and Dignity; That they may be delivered from the dangers they are ex<g ref="char:EOLhyphen"/>posed to; from Treachery and Violence, from Dissimulation and ill Counsel: That Impudence may be sensible of its own dan<g ref="char:EOLhyphen"/>ger which walks too boldly on the Battle<g ref="char:EOLhyphen"/>ments<note place="margin">Ecclus. 9.</note> of the City; That <hi>Belzebub</hi>'s Flyes may not sip too often in the Cup, nor buzz in the ears of Princes; That sound and mature Advice for the Publick good, may be like Salt on the Heads of Horse<g ref="char:EOLhyphen"/>leaches, with whom Private Interest is pre<g ref="char:EOLhyphen"/>ferrable, to the summary of blessings, <hi>Peace one with another.</hi>
+            </p>
+            <p n="4">4. Where the Heart and Tongue are thus Consonant, the Hand will keep Time; nay, bare a part too; and in the last place, be open in paying Tribute, <hi>to whom Tribute is due,</hi> for the support of that Dignity, which is influential on every mans Interest rightly understood. I presume here▪ needs no <hi>Me<g ref="char:EOLhyphen"/>nenius Agrippa,</hi> to reduce any Dissenting mem<g ref="char:EOLhyphen"/>bers to an Agreement with the Stomack, from whence they all derive their Strength
+<pb n="15" facs="tcp:153582:10"/> according to the proportion of its allowance. The Burden of Government is weighty, and 'tis unreasonable, to expect an <hi>Atlas</hi> to uphold it, without Leggs or Sinews; And I suppose, those who are qualified according to <hi>Jethro</hi>'s Instructions to <hi>Moses,</hi> will not be plea<g ref="char:EOLhyphen"/>sed to hear the reproach of having Princes or Governours going on foot, whose Trea<g ref="char:EOLhyphen"/>sures being augmented from the voluntary Contribution of the Neather-Springs, would like the overflowing of <hi>Nilus</hi> return with so much Advantage to the Publick; Espe<g ref="char:EOLhyphen"/>cially, if in the next place they regard the Payment of Gods Due, and render under unto God, <hi>the Things which are Gods.</hi>
+            </p>
+            <p>2. The Earth we know, is the Lords, and the fulness thereof; the Round World, and they that dwell therein: Yet in a more peculiar manner, There are many Things which He challenges as his Due from Man, which is but reasonable service: I will not pretend so much to the art of Epitomizing, as to squeez the body of Divinity into a Nutshel, or present a new systeme of our Duty to God, to those so well Understand it; and whose Principal
+<pb n="16" facs="tcp:153582:11"/> business it is to defend, and incourage those who dare perform it. Wherefore without recommending to your prudent care, any thing relating to Ecclesiastical Jurisdiction, any priviledges or rights of the Church, or whatever may be called Christian Li<g ref="char:EOLhyphen"/>berty, I think my self chiefly obliged to be your Remembrancer in the greatest con<g ref="char:EOLhyphen"/>cern of us all, That your Decrees may be (like the <hi>Decreta Sapientum</hi> among the <hi>Jews</hi>) a hedge to the eternal Law of Righteousness. With what a slender twine, the Sword of Vengeance hangs over our heads, all may be sensible of; and that Sin only is the in let of Destruction; and consequently the extripation of it, the only security of a People. Piety and seeking Gods Face, is both the Foundation and Limitation of all true Happiness; as was conspicuous in the Example of King <hi>Uzziah</hi> during his depen<g ref="char:EOLhyphen"/>dance<note place="margin">1 Chron. 26.</note> upon God with such a Faith, as was remark't by the Author of the Epistle to the <hi>Hebrews,</hi> among the Heroes and Cham<g ref="char:EOLhyphen"/>pions for Gods Cause. By this Faith, he fortified the City <hi>Eloth,</hi> near the Sea; He subdued many Enemyes, his Victorious
+<pb n="17" facs="tcp:153582:11"/> name spreading to the entring into <hi>Aegypt.</hi> He built Towers in <hi>Jerusalem,</hi> and in the Wilderness; The Valleys were cloathed with Cattle, and the Mountains with Vines: The Valour of his Fighting-Men was as remark<g ref="char:EOLhyphen"/>able as their Number, till his strength made him swell, and forget his Original: He thought himself an Independent being, in<g ref="char:EOLhyphen"/>vading the Priests-Office, and trusted only to those fortifications, which he thought he had made so strong for himself; Not dream<g ref="char:EOLhyphen"/>ing, that, <hi>Unless the Lord keep the City, the Watch<g ref="char:EOLhyphen"/>man waketh but in vain;</hi> and that a departure from God, is like sleeping over a praeci<g ref="char:EOLhyphen"/>pice, irrecoverable without a Miracle of Mercy, and has a natural tendency to De<g ref="char:EOLhyphen"/>struction.</p>
+            <p>Seeing then the Precept of our Saviour aimes so directly at our good, I hope the Doors of this Council and Assembly, will be shut not only against the Spirit of Atheism, and Infidelity; but of Indifferency to the Truth and Honesty of the Causes egaged in, against all such as may delight in troubled waters; and out of publick disorders, look only for personal advancements; being like
+<pb n="18" facs="tcp:153582:12"/>
+               <hi>Ephraim,</hi> unconcerned at the <hi>Assyrians</hi> Power, because no otherwise for God.</p>
+            <p>Let not Zeal for Parties, be on the other hand, as Injurious as this Lukewarm Tem<g ref="char:EOLhyphen"/>per; but let Charity unite and cement us in the Substantials of our Religion; whose Interest it is not to Quarrel in Circum<g ref="char:EOLhyphen"/>stantials, lest advantage be given to the Com<g ref="char:EOLhyphen"/>mon Enemy.</p>
+            <p>What is Due to Gods Justice we cannot Pay; what is Acceptable through his Mercy, we may, by our Hearty and Sincere endea<g ref="char:EOLhyphen"/>vour. <hi>Then God, even our own God, shall give us his Blessing; And all the Ends of the World shall fear Him.</hi> To whom, as is most Due, be ascribed all Honour and Glory, from this time forth, for evermore. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:153582:12"/>
+            <pb facs="tcp:153582:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
